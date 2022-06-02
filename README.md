@@ -17,6 +17,13 @@ I found 2 of this year :
 I was wondering about which one to choose and then I finish to make my own fork.
 The reason : The solution of creating a fork for this package no more maintened is temporary. In a near future the project I work on will find another solution. So , better to be the responsible of maintening the fork my company will use for a while.
 
+## Installation
+
+Install through git:
+```
+npm install --save github:massipasquesi/react-lottie
+```
+
 ## Demo
 https://chenqingspring.github.io/react-lottie
 
@@ -39,12 +46,6 @@ Bundle vector animations within your app without having to worry about multiple 
 
 Looking for lottie files › https://www.lottiefiles.com/
 
-## Installation
-
-Install through npm:
-```
-npm install --save react-lottie
-```
 
 ## Usage
 
