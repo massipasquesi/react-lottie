@@ -5,7 +5,8 @@
 # Why this fork ?
 
 react-lottie from chenqingspring is no more maintened.
-You can find many forks of the original repository. I was able to filter and get the few I was lokking for :
+You can find many forks of the original repository. I was able to filter and get the few I was looking for,
+thanks to https://useful-forks.github.io/ :
 - more recent ones
 - with modifications only in package.json, thoses lines creating issues on install ( peerDependencies and engine ).
 
