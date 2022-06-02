@@ -2,6 +2,20 @@
 
 [![npm version](https://badge.fury.io/js/react-lottie.svg)](http://badge.fury.io/js/react-lottie)
 
+# Why this fork ?
+
+react-lottie from chenqingspring is no more maintened.
+You can find many forks of the original repository. I was able to filter and get the few I was lokking for :
+- more recent ones
+- with modifications only in package.json, thoses lines creating issues on install ( peerDependencies and engine ).
+
+I found 2 of this year :
+- https://github.com/mugurtomitajr/react-lottie
+- https://github.com/thaidoviet/react-lottie
+
+I was wondering about which one to choose and then I finish to make my own fork.
+The reason : The solution of creating a fork for this package no more maintened is temporary. In a near future the project I work on will find another solution. So , better to be the responsible of maintening the fork my company will use for a while.
+
 ## Demo
 https://chenqingspring.github.io/react-lottie
 
